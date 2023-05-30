@@ -1,0 +1,29 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "country": "Germany",
+            "city": "Berlin"
+        },
+        {
+            "id": 1,
+            "country": "France",
+            "city": "Paris"
+        },
+        {
+            "id": 1,
+            "country": "Italy",
+            "city": "Rome"
+        },
+        {
+            "id": 1,
+            "country": "Czech",
+            "city": "Prague"
+        },
+        {
+            "id": 1,
+            "country": "Portugal",
+            "city": "Lisbon"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    border: solid 1px black;
+}
+
+.container {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.main {
+    background-image: url(../img/img_5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+
+    height: 200px;
+}
+
+.buttonOne {
+    display: block;
+    margin: 10px auto 0;
+}
+.wrapper {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.wrapper button {
+    padding: 5px 10px;
+
+}
